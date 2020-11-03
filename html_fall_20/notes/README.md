@@ -1,5 +1,10 @@
-# External Resource Notes:
+# Notes on ML Foundation :rocket: :
 
+## Course Notes
+
+- This semester **Theory of Generalization** is not covered in the official curriulum. Review the videos ([Lec22](https://www.youtube.com/watch?v=rUFqB5Z3YHQ&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&index=22) - [Lec25](https://www.youtube.com/watch?v=rUFqB5Z3YHQ&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&index=22)) later to learn more about the analysis on how breakpoints keep learning time in a polynomial scale, as opposed to exponential or NP.
+
+## External Learning Resources
 - UMich EECS598 Statistical ML [Notes Website](https://web.eecs.umich.edu/~cscott/past_courses/eecs598w14/index.html) (Winter 2014)
     - [VC Theory resources](https://web.eecs.umich.edu/~cscott/past_courses/eecs598w14/notes/05_vc_theory.pdf) from UMich EECS 598 (Winter 2014)
 
