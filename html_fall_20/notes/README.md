@@ -3,7 +3,7 @@
 ## Course Notes
 
 - Review **Theory of Generalization**   ([Lec22](https://www.youtube.com/watch?v=rUFqB5Z3YHQ&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&index=22) - [Lec25](https://www.youtube.com/watch?v=rUFqB5Z3YHQ&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&index=22)). Especially the "sketch of proof" of **VC bound**.
-- In PLA where $sign(w^Tx) = Y$, if X input is "linearly dependent", Y cannot be shattered. Reasoning [here](https://youtu.be/9kra9i6jS1g?t=4440) with proof by contradiction. 
+- In PLA where $`sign(w^Tx) = Y`$, if X input is "linearly dependent", Y cannot be shattered. Reasoning [here](https://youtu.be/9kra9i6jS1g?t=4440) with proof by contradiction. 
 - What is the relationship between **bias-variance tradeoff** and **VC dimension** ? 
     - Check out the UW CSE44 website (recorded below) and particular these slides: [Lec12: VC](https://courses.cs.washington.edu/courses/cse446/20wi/Lecture12/12_VC.pdf), and bias-variance [notes](https://courses.cs.washington.edu/courses/cse446/20wi/Section4/section4.pdf)
 - Complexity evaluation theory such as VC Theory is slightly pedantic, especially for the Deep Learning era. Yet, the message out of the theory is still useful in tuning parameters. Check out more Deep Learning stuff from Stanford **CS229**.
