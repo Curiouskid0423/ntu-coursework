@@ -1,7 +1,7 @@
 # Notes on ML Foundation / Technique
 
 <div style="text-align:center">
-    <img src="./cover.png" alt="Cover Photo" width="80%" />
+    <img src="./cover-2.png" alt="Cover Photo" />
 </div>
 
 ## Course Notes
