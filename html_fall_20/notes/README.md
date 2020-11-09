@@ -1,7 +1,7 @@
 # Notes on ML Foundation / Technique :rocket: 
 
 <img src="./cover.png" alt="Cover Photo" 
-style="width: 80%; display: block; margin: auto;" />
+style="width: 50%; display: block; margin: auto;" />
 
 ## Course Notes
 
