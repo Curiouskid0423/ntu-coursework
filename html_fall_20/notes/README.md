@@ -1,6 +1,8 @@
-# Notes on ML Foundation / Technique :rocket: 
+# Notes on ML Foundation / Technique
 
-<img src="./cover.png" alt="Cover Photo" width="80%" align="center"/>
+<div style="text-align:center">
+    <img src="./cover.png" alt="Cover Photo" width="80%" />
+</div>
 
 ## Course Notes
 
